@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+google-generativeai
+tenacity
+pybloom-live
+nltk
+numpy
