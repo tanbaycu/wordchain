@@ -425,3 +425,4 @@ if __name__ == '__main__':
             logger.critical(f"Critical error: {e}")
             logger.info("Restarting the bot in 60 seconds...")
             asyncio.sleep(60)
+            
